@@ -1,0 +1,177 @@
+body{ background-color: #faeee7;} 
+h1 {
+  text-align: center;
+  font-size: 70px;
+  font-family: 'M PLUS 2', sans-serif;
+  }
+
+div.haikei{
+    background-image:url(
+  "../画像/title.jpg"
+  );
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 100px 100px;
+    padding:50px;
+    opacity:0.8
+
+}
+.image{
+  text-align: center;
+}
+
+h1 {
+  color:#fffffe;
+}
+
+
+div.yokonarabi{
+  display:flex;
+  width:800px;
+  background-color: #c3f0ca;
+  justify-content: center;
+  margin:100px auto;
+  text-align: left;
+  font-family:'M PLUS 2', sans-serif;
+  
+  
+
+}
+
+.profile{
+  border-radius:50%;
+  border:3px dashed rgb(51, 132, 51);
+  width: 280px;
+  height:280px;
+
+
+
+
+}
+
+section{
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  
+}
+.backgroundimage{
+  background-image:url(
+"../画像/saitama.jpg"
+);
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  
+  margin: 100px 100px;
+
+}
+
+h2{
+  font-size: "5opx";
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid #33272a;
+ 
+  
+
+}
+.explanation{
+  /* display: flex;
+  justify-content: space-between; */
+ 
+}
+div{
+ 
+
+}
+
+.text{
+  width:20%;
+  height:50%;
+  margin: 30px;
+  border: 2px solid #33272a;
+  background-color: #fffffe;
+  max-width: 50%;
+
+}
+div{
+  
+  text-align: center;
+  
+}
+.basho {
+  margin-left:auto;
+  width:20%;
+  height:50%;
+  border: 2px solid #33272a;
+  background-color: #fffffe;
+  
+}
+
+.hobby{
+  margin: 80px 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.hobby-content{
+  box-shadow: 0 0 8px gray;
+  border-radius: 30px;
+  width: 33%;
+}
+
+.hobby-name{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 40px
+}
+
+.hobby-name span{
+  border-bottom: 3px dotted black;
+}
+
+.hobby-img{
+  text-align: center;
+}
+
+.hobby-img img{
+  border-radius: 50%;
+  max-width: 70%;
+}
+
+.hobby-length{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.hobby p{
+  padding: 0 10%;
+}
+
+h2{
+  font-size: 30px;
+  color: #33272a;
+  text-align: center;
+  border-radius: 15px;
+  background-color: #ffc6c7;
+}
+h2.sanserif{
+  font-family: sans-serif;}
+
+.flex{ 
+  display: flex;
+  margin: 30px 30px;
+  justify-content: center;
+  gap:40px
+}
+
+.explanations{
+  border: 3px solid #000000;
+  width:400px;
+  padding:30px
+}
+
